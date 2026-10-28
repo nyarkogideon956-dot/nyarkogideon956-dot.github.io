@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kgabs.bizapp",
+    "sha256_cert_fingerprints": ["82:88:66:AC:1B:F7:33:BD:D7:01:6B:F8:EC:7D:67:68:A6:16:16:09:D5:D3:61:63:9D:C3:D2:EA:E4:48:14:0C"]
+  }
+}]
